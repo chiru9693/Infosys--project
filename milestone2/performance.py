@@ -1,0 +1,24 @@
+import time
+from concurrent.futures import ThreadPoolExecutor
+from multiprocessing import Pool, cpu_count
+from sentiment_engine import analyze_sentiment
+
+
+def single_processing(reviews):
+    start = time.time()
+    results = [analyze_sentiment(r) for r in reviews]
+    return results, time.time() - start
+
+
+def thread_processing(reviews):
+    start = time.time()
+    with ThreadPoolExecutor() as executor:
+        results = list(executor.map(analyze_sentiment, reviews))
+    return results, time.time() - start
+
+
+def multiprocessing_processing(reviews):
+    start = time.time()
+    with Pool(cpu_count()) as pool:
+        results = pool.map(analyze_sentiment, reviews)
+    return results, time.time() - start
