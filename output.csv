@@ -1,0 +1,1001 @@
+ID,Text,Score,Sentiment
+1,I love this product it is excellent,2,Positive
+2,The service is good and nice,2,Positive
+3,I hate this terrible thing,-2,Negative
+4,The service is good and nice,2,Positive
+5,The service is good and nice,2,Positive
+6,This is the worst experience ever,-1,Negative
+7,This is bad and poor quality,-2,Negative
+8,This is bad and poor quality,-2,Negative
+9,This is the worst experience ever,-1,Negative
+10,This is bad and poor quality,-2,Negative
+11,This is the worst experience ever,-1,Negative
+12,The service is good and nice,2,Positive
+13,I hate this terrible thing,-2,Negative
+14,I love this product it is excellent,2,Positive
+15,This is the worst experience ever,-1,Negative
+16,This is bad and poor quality,-2,Negative
+17,This is the worst experience ever,-1,Negative
+18,I love this product it is excellent,2,Positive
+19,The service is good and nice,2,Positive
+20,The service is good and nice,2,Positive
+21,What a great performance,1,Positive
+22,The service is good and nice,2,Positive
+23,This is the worst experience ever,-1,Negative
+24,This is the worst experience ever,-1,Negative
+25,This is bad and poor quality,-2,Negative
+26,This is the worst experience ever,-1,Negative
+27,I hate this terrible thing,-2,Negative
+28,It is an average day,0,Neutral
+29,This is bad and poor quality,-2,Negative
+30,The service is good and nice,2,Positive
+31,This is the worst experience ever,-1,Negative
+32,It is an average day,0,Neutral
+33,The service is good and nice,2,Positive
+34,I love this product it is excellent,2,Positive
+35,This is the worst experience ever,-1,Negative
+36,This is bad and poor quality,-2,Negative
+37,This is bad and poor quality,-2,Negative
+38,This is the worst experience ever,-1,Negative
+39,This is bad and poor quality,-2,Negative
+40,It is an average day,0,Neutral
+41,What a great performance,1,Positive
+42,This is the worst experience ever,-1,Negative
+43,This is bad and poor quality,-2,Negative
+44,This is the worst experience ever,-1,Negative
+45,The service is good and nice,2,Positive
+46,What a great performance,1,Positive
+47,I hate this terrible thing,-2,Negative
+48,The service is good and nice,2,Positive
+49,It is an average day,0,Neutral
+50,It is an average day,0,Neutral
+51,What a great performance,1,Positive
+52,What a great performance,1,Positive
+53,This is the worst experience ever,-1,Negative
+54,It is an average day,0,Neutral
+55,It is an average day,0,Neutral
+56,The service is good and nice,2,Positive
+57,This is bad and poor quality,-2,Negative
+58,It is an average day,0,Neutral
+59,The service is good and nice,2,Positive
+60,This is bad and poor quality,-2,Negative
+61,What a great performance,1,Positive
+62,This is bad and poor quality,-2,Negative
+63,I love this product it is excellent,2,Positive
+64,What a great performance,1,Positive
+65,This is bad and poor quality,-2,Negative
+66,The service is good and nice,2,Positive
+67,It is an average day,0,Neutral
+68,This is bad and poor quality,-2,Negative
+69,What a great performance,1,Positive
+70,This is the worst experience ever,-1,Negative
+71,I hate this terrible thing,-2,Negative
+72,I love this product it is excellent,2,Positive
+73,I hate this terrible thing,-2,Negative
+74,It is an average day,0,Neutral
+75,This is bad and poor quality,-2,Negative
+76,It is an average day,0,Neutral
+77,It is an average day,0,Neutral
+78,I love this product it is excellent,2,Positive
+79,It is an average day,0,Neutral
+80,I love this product it is excellent,2,Positive
+81,I love this product it is excellent,2,Positive
+82,The service is good and nice,2,Positive
+83,This is bad and poor quality,-2,Negative
+84,The service is good and nice,2,Positive
+85,This is bad and poor quality,-2,Negative
+86,The service is good and nice,2,Positive
+87,I love this product it is excellent,2,Positive
+88,This is the worst experience ever,-1,Negative
+89,What a great performance,1,Positive
+90,This is bad and poor quality,-2,Negative
+91,I hate this terrible thing,-2,Negative
+92,I hate this terrible thing,-2,Negative
+93,This is bad and poor quality,-2,Negative
+94,I hate this terrible thing,-2,Negative
+95,It is an average day,0,Neutral
+96,The service is good and nice,2,Positive
+97,What a great performance,1,Positive
+98,This is the worst experience ever,-1,Negative
+99,This is the worst experience ever,-1,Negative
+100,I hate this terrible thing,-2,Negative
+101,This is the worst experience ever,-1,Negative
+102,I hate this terrible thing,-2,Negative
+103,This is the worst experience ever,-1,Negative
+104,The service is good and nice,2,Positive
+105,What a great performance,1,Positive
+106,I love this product it is excellent,2,Positive
+107,It is an average day,0,Neutral
+108,I hate this terrible thing,-2,Negative
+109,This is the worst experience ever,-1,Negative
+110,This is bad and poor quality,-2,Negative
+111,It is an average day,0,Neutral
+112,What a great performance,1,Positive
+113,I hate this terrible thing,-2,Negative
+114,I love this product it is excellent,2,Positive
+115,It is an average day,0,Neutral
+116,The service is good and nice,2,Positive
+117,I love this product it is excellent,2,Positive
+118,I hate this terrible thing,-2,Negative
+119,I hate this terrible thing,-2,Negative
+120,This is bad and poor quality,-2,Negative
+121,What a great performance,1,Positive
+122,This is the worst experience ever,-1,Negative
+123,This is bad and poor quality,-2,Negative
+124,It is an average day,0,Neutral
+125,The service is good and nice,2,Positive
+126,I hate this terrible thing,-2,Negative
+127,I hate this terrible thing,-2,Negative
+128,It is an average day,0,Neutral
+129,I love this product it is excellent,2,Positive
+130,What a great performance,1,Positive
+131,This is the worst experience ever,-1,Negative
+132,I love this product it is excellent,2,Positive
+133,I hate this terrible thing,-2,Negative
+134,I hate this terrible thing,-2,Negative
+135,This is bad and poor quality,-2,Negative
+136,This is bad and poor quality,-2,Negative
+137,This is the worst experience ever,-1,Negative
+138,This is bad and poor quality,-2,Negative
+139,It is an average day,0,Neutral
+140,It is an average day,0,Neutral
+141,The service is good and nice,2,Positive
+142,This is the worst experience ever,-1,Negative
+143,I hate this terrible thing,-2,Negative
+144,I hate this terrible thing,-2,Negative
+145,This is the worst experience ever,-1,Negative
+146,This is bad and poor quality,-2,Negative
+147,I love this product it is excellent,2,Positive
+148,This is bad and poor quality,-2,Negative
+149,This is bad and poor quality,-2,Negative
+150,It is an average day,0,Neutral
+151,It is an average day,0,Neutral
+152,It is an average day,0,Neutral
+153,The service is good and nice,2,Positive
+154,I love this product it is excellent,2,Positive
+155,What a great performance,1,Positive
+156,This is bad and poor quality,-2,Negative
+157,This is bad and poor quality,-2,Negative
+158,What a great performance,1,Positive
+159,What a great performance,1,Positive
+160,This is the worst experience ever,-1,Negative
+161,This is the worst experience ever,-1,Negative
+162,What a great performance,1,Positive
+163,This is bad and poor quality,-2,Negative
+164,The service is good and nice,2,Positive
+165,This is bad and poor quality,-2,Negative
+166,I hate this terrible thing,-2,Negative
+167,This is bad and poor quality,-2,Negative
+168,The service is good and nice,2,Positive
+169,I hate this terrible thing,-2,Negative
+170,It is an average day,0,Neutral
+171,I love this product it is excellent,2,Positive
+172,The service is good and nice,2,Positive
+173,I hate this terrible thing,-2,Negative
+174,This is the worst experience ever,-1,Negative
+175,This is bad and poor quality,-2,Negative
+176,I hate this terrible thing,-2,Negative
+177,It is an average day,0,Neutral
+178,What a great performance,1,Positive
+179,This is bad and poor quality,-2,Negative
+180,This is bad and poor quality,-2,Negative
+181,I hate this terrible thing,-2,Negative
+182,What a great performance,1,Positive
+183,This is bad and poor quality,-2,Negative
+184,What a great performance,1,Positive
+185,I love this product it is excellent,2,Positive
+186,What a great performance,1,Positive
+187,The service is good and nice,2,Positive
+188,The service is good and nice,2,Positive
+189,I hate this terrible thing,-2,Negative
+190,What a great performance,1,Positive
+191,What a great performance,1,Positive
+192,The service is good and nice,2,Positive
+193,I hate this terrible thing,-2,Negative
+194,It is an average day,0,Neutral
+195,It is an average day,0,Neutral
+196,This is bad and poor quality,-2,Negative
+197,This is the worst experience ever,-1,Negative
+198,This is the worst experience ever,-1,Negative
+199,This is bad and poor quality,-2,Negative
+200,I love this product it is excellent,2,Positive
+201,This is the worst experience ever,-1,Negative
+202,This is bad and poor quality,-2,Negative
+203,This is bad and poor quality,-2,Negative
+204,This is bad and poor quality,-2,Negative
+205,I hate this terrible thing,-2,Negative
+206,This is the worst experience ever,-1,Negative
+207,This is bad and poor quality,-2,Negative
+208,I hate this terrible thing,-2,Negative
+209,The service is good and nice,2,Positive
+210,I love this product it is excellent,2,Positive
+211,This is the worst experience ever,-1,Negative
+212,The service is good and nice,2,Positive
+213,This is the worst experience ever,-1,Negative
+214,This is bad and poor quality,-2,Negative
+215,I hate this terrible thing,-2,Negative
+216,This is the worst experience ever,-1,Negative
+217,The service is good and nice,2,Positive
+218,What a great performance,1,Positive
+219,The service is good and nice,2,Positive
+220,I hate this terrible thing,-2,Negative
+221,The service is good and nice,2,Positive
+222,I love this product it is excellent,2,Positive
+223,I love this product it is excellent,2,Positive
+224,This is bad and poor quality,-2,Negative
+225,It is an average day,0,Neutral
+226,I hate this terrible thing,-2,Negative
+227,This is the worst experience ever,-1,Negative
+228,I hate this terrible thing,-2,Negative
+229,This is bad and poor quality,-2,Negative
+230,I hate this terrible thing,-2,Negative
+231,I hate this terrible thing,-2,Negative
+232,This is bad and poor quality,-2,Negative
+233,This is the worst experience ever,-1,Negative
+234,The service is good and nice,2,Positive
+235,I love this product it is excellent,2,Positive
+236,I love this product it is excellent,2,Positive
+237,I hate this terrible thing,-2,Negative
+238,I hate this terrible thing,-2,Negative
+239,It is an average day,0,Neutral
+240,What a great performance,1,Positive
+241,The service is good and nice,2,Positive
+242,I love this product it is excellent,2,Positive
+243,This is the worst experience ever,-1,Negative
+244,This is bad and poor quality,-2,Negative
+245,This is bad and poor quality,-2,Negative
+246,This is bad and poor quality,-2,Negative
+247,This is bad and poor quality,-2,Negative
+248,The service is good and nice,2,Positive
+249,What a great performance,1,Positive
+250,This is the worst experience ever,-1,Negative
+251,I love this product it is excellent,2,Positive
+252,The service is good and nice,2,Positive
+253,What a great performance,1,Positive
+254,This is the worst experience ever,-1,Negative
+255,It is an average day,0,Neutral
+256,I hate this terrible thing,-2,Negative
+257,I hate this terrible thing,-2,Negative
+258,What a great performance,1,Positive
+259,The service is good and nice,2,Positive
+260,It is an average day,0,Neutral
+261,I hate this terrible thing,-2,Negative
+262,I love this product it is excellent,2,Positive
+263,I hate this terrible thing,-2,Negative
+264,What a great performance,1,Positive
+265,This is the worst experience ever,-1,Negative
+266,The service is good and nice,2,Positive
+267,The service is good and nice,2,Positive
+268,This is the worst experience ever,-1,Negative
+269,This is bad and poor quality,-2,Negative
+270,I love this product it is excellent,2,Positive
+271,This is bad and poor quality,-2,Negative
+272,It is an average day,0,Neutral
+273,This is bad and poor quality,-2,Negative
+274,This is bad and poor quality,-2,Negative
+275,This is the worst experience ever,-1,Negative
+276,I hate this terrible thing,-2,Negative
+277,I love this product it is excellent,2,Positive
+278,I hate this terrible thing,-2,Negative
+279,I hate this terrible thing,-2,Negative
+280,It is an average day,0,Neutral
+281,The service is good and nice,2,Positive
+282,The service is good and nice,2,Positive
+283,This is bad and poor quality,-2,Negative
+284,I hate this terrible thing,-2,Negative
+285,This is bad and poor quality,-2,Negative
+286,This is bad and poor quality,-2,Negative
+287,I hate this terrible thing,-2,Negative
+288,What a great performance,1,Positive
+289,The service is good and nice,2,Positive
+290,I hate this terrible thing,-2,Negative
+291,The service is good and nice,2,Positive
+292,I love this product it is excellent,2,Positive
+293,This is bad and poor quality,-2,Negative
+294,The service is good and nice,2,Positive
+295,This is bad and poor quality,-2,Negative
+296,I hate this terrible thing,-2,Negative
+297,It is an average day,0,Neutral
+298,I hate this terrible thing,-2,Negative
+299,This is bad and poor quality,-2,Negative
+300,This is bad and poor quality,-2,Negative
+301,I hate this terrible thing,-2,Negative
+302,It is an average day,0,Neutral
+303,This is the worst experience ever,-1,Negative
+304,The service is good and nice,2,Positive
+305,The service is good and nice,2,Positive
+306,What a great performance,1,Positive
+307,I hate this terrible thing,-2,Negative
+308,I love this product it is excellent,2,Positive
+309,I hate this terrible thing,-2,Negative
+310,I love this product it is excellent,2,Positive
+311,This is bad and poor quality,-2,Negative
+312,The service is good and nice,2,Positive
+313,It is an average day,0,Neutral
+314,What a great performance,1,Positive
+315,It is an average day,0,Neutral
+316,The service is good and nice,2,Positive
+317,I love this product it is excellent,2,Positive
+318,This is bad and poor quality,-2,Negative
+319,I hate this terrible thing,-2,Negative
+320,This is bad and poor quality,-2,Negative
+321,I love this product it is excellent,2,Positive
+322,This is bad and poor quality,-2,Negative
+323,The service is good and nice,2,Positive
+324,This is the worst experience ever,-1,Negative
+325,What a great performance,1,Positive
+326,It is an average day,0,Neutral
+327,I hate this terrible thing,-2,Negative
+328,I hate this terrible thing,-2,Negative
+329,I hate this terrible thing,-2,Negative
+330,The service is good and nice,2,Positive
+331,I hate this terrible thing,-2,Negative
+332,This is the worst experience ever,-1,Negative
+333,I hate this terrible thing,-2,Negative
+334,I hate this terrible thing,-2,Negative
+335,This is bad and poor quality,-2,Negative
+336,It is an average day,0,Neutral
+337,I hate this terrible thing,-2,Negative
+338,This is the worst experience ever,-1,Negative
+339,What a great performance,1,Positive
+340,This is the worst experience ever,-1,Negative
+341,This is bad and poor quality,-2,Negative
+342,This is bad and poor quality,-2,Negative
+343,I hate this terrible thing,-2,Negative
+344,This is the worst experience ever,-1,Negative
+345,This is the worst experience ever,-1,Negative
+346,This is the worst experience ever,-1,Negative
+347,It is an average day,0,Neutral
+348,I love this product it is excellent,2,Positive
+349,The service is good and nice,2,Positive
+350,The service is good and nice,2,Positive
+351,The service is good and nice,2,Positive
+352,What a great performance,1,Positive
+353,This is bad and poor quality,-2,Negative
+354,This is bad and poor quality,-2,Negative
+355,I hate this terrible thing,-2,Negative
+356,It is an average day,0,Neutral
+357,It is an average day,0,Neutral
+358,It is an average day,0,Neutral
+359,This is bad and poor quality,-2,Negative
+360,I love this product it is excellent,2,Positive
+361,I love this product it is excellent,2,Positive
+362,It is an average day,0,Neutral
+363,The service is good and nice,2,Positive
+364,What a great performance,1,Positive
+365,I hate this terrible thing,-2,Negative
+366,This is the worst experience ever,-1,Negative
+367,I love this product it is excellent,2,Positive
+368,The service is good and nice,2,Positive
+369,I love this product it is excellent,2,Positive
+370,What a great performance,1,Positive
+371,I love this product it is excellent,2,Positive
+372,I love this product it is excellent,2,Positive
+373,It is an average day,0,Neutral
+374,What a great performance,1,Positive
+375,I love this product it is excellent,2,Positive
+376,What a great performance,1,Positive
+377,I love this product it is excellent,2,Positive
+378,It is an average day,0,Neutral
+379,This is bad and poor quality,-2,Negative
+380,The service is good and nice,2,Positive
+381,I hate this terrible thing,-2,Negative
+382,I hate this terrible thing,-2,Negative
+383,I hate this terrible thing,-2,Negative
+384,This is bad and poor quality,-2,Negative
+385,What a great performance,1,Positive
+386,It is an average day,0,Neutral
+387,It is an average day,0,Neutral
+388,This is the worst experience ever,-1,Negative
+389,It is an average day,0,Neutral
+390,I hate this terrible thing,-2,Negative
+391,It is an average day,0,Neutral
+392,I hate this terrible thing,-2,Negative
+393,What a great performance,1,Positive
+394,I hate this terrible thing,-2,Negative
+395,I love this product it is excellent,2,Positive
+396,It is an average day,0,Neutral
+397,This is bad and poor quality,-2,Negative
+398,What a great performance,1,Positive
+399,The service is good and nice,2,Positive
+400,The service is good and nice,2,Positive
+401,This is bad and poor quality,-2,Negative
+402,It is an average day,0,Neutral
+403,It is an average day,0,Neutral
+404,What a great performance,1,Positive
+405,This is bad and poor quality,-2,Negative
+406,I love this product it is excellent,2,Positive
+407,This is the worst experience ever,-1,Negative
+408,I love this product it is excellent,2,Positive
+409,I hate this terrible thing,-2,Negative
+410,This is bad and poor quality,-2,Negative
+411,I hate this terrible thing,-2,Negative
+412,I hate this terrible thing,-2,Negative
+413,What a great performance,1,Positive
+414,It is an average day,0,Neutral
+415,The service is good and nice,2,Positive
+416,It is an average day,0,Neutral
+417,I love this product it is excellent,2,Positive
+418,This is the worst experience ever,-1,Negative
+419,The service is good and nice,2,Positive
+420,It is an average day,0,Neutral
+421,This is the worst experience ever,-1,Negative
+422,I hate this terrible thing,-2,Negative
+423,This is bad and poor quality,-2,Negative
+424,What a great performance,1,Positive
+425,This is the worst experience ever,-1,Negative
+426,What a great performance,1,Positive
+427,This is bad and poor quality,-2,Negative
+428,What a great performance,1,Positive
+429,What a great performance,1,Positive
+430,It is an average day,0,Neutral
+431,This is the worst experience ever,-1,Negative
+432,What a great performance,1,Positive
+433,It is an average day,0,Neutral
+434,The service is good and nice,2,Positive
+435,The service is good and nice,2,Positive
+436,What a great performance,1,Positive
+437,This is the worst experience ever,-1,Negative
+438,This is bad and poor quality,-2,Negative
+439,I love this product it is excellent,2,Positive
+440,I hate this terrible thing,-2,Negative
+441,It is an average day,0,Neutral
+442,The service is good and nice,2,Positive
+443,This is bad and poor quality,-2,Negative
+444,I love this product it is excellent,2,Positive
+445,I love this product it is excellent,2,Positive
+446,It is an average day,0,Neutral
+447,This is bad and poor quality,-2,Negative
+448,I love this product it is excellent,2,Positive
+449,It is an average day,0,Neutral
+450,I love this product it is excellent,2,Positive
+451,It is an average day,0,Neutral
+452,The service is good and nice,2,Positive
+453,I love this product it is excellent,2,Positive
+454,I love this product it is excellent,2,Positive
+455,What a great performance,1,Positive
+456,It is an average day,0,Neutral
+457,I love this product it is excellent,2,Positive
+458,I hate this terrible thing,-2,Negative
+459,I love this product it is excellent,2,Positive
+460,What a great performance,1,Positive
+461,This is bad and poor quality,-2,Negative
+462,I hate this terrible thing,-2,Negative
+463,The service is good and nice,2,Positive
+464,I love this product it is excellent,2,Positive
+465,I love this product it is excellent,2,Positive
+466,I love this product it is excellent,2,Positive
+467,The service is good and nice,2,Positive
+468,It is an average day,0,Neutral
+469,I hate this terrible thing,-2,Negative
+470,This is the worst experience ever,-1,Negative
+471,This is the worst experience ever,-1,Negative
+472,It is an average day,0,Neutral
+473,I love this product it is excellent,2,Positive
+474,This is the worst experience ever,-1,Negative
+475,What a great performance,1,Positive
+476,I hate this terrible thing,-2,Negative
+477,It is an average day,0,Neutral
+478,This is the worst experience ever,-1,Negative
+479,I hate this terrible thing,-2,Negative
+480,What a great performance,1,Positive
+481,I hate this terrible thing,-2,Negative
+482,I love this product it is excellent,2,Positive
+483,This is bad and poor quality,-2,Negative
+484,I hate this terrible thing,-2,Negative
+485,This is bad and poor quality,-2,Negative
+486,I love this product it is excellent,2,Positive
+487,It is an average day,0,Neutral
+488,I love this product it is excellent,2,Positive
+489,I hate this terrible thing,-2,Negative
+490,It is an average day,0,Neutral
+491,This is bad and poor quality,-2,Negative
+492,It is an average day,0,Neutral
+493,The service is good and nice,2,Positive
+494,I hate this terrible thing,-2,Negative
+495,This is the worst experience ever,-1,Negative
+496,What a great performance,1,Positive
+497,I love this product it is excellent,2,Positive
+498,I hate this terrible thing,-2,Negative
+499,This is bad and poor quality,-2,Negative
+500,It is an average day,0,Neutral
+501,It is an average day,0,Neutral
+502,This is bad and poor quality,-2,Negative
+503,I hate this terrible thing,-2,Negative
+504,I love this product it is excellent,2,Positive
+505,This is bad and poor quality,-2,Negative
+506,This is the worst experience ever,-1,Negative
+507,This is the worst experience ever,-1,Negative
+508,What a great performance,1,Positive
+509,It is an average day,0,Neutral
+510,The service is good and nice,2,Positive
+511,I hate this terrible thing,-2,Negative
+512,It is an average day,0,Neutral
+513,This is bad and poor quality,-2,Negative
+514,What a great performance,1,Positive
+515,I love this product it is excellent,2,Positive
+516,This is bad and poor quality,-2,Negative
+517,The service is good and nice,2,Positive
+518,What a great performance,1,Positive
+519,This is bad and poor quality,-2,Negative
+520,I hate this terrible thing,-2,Negative
+521,What a great performance,1,Positive
+522,What a great performance,1,Positive
+523,It is an average day,0,Neutral
+524,I hate this terrible thing,-2,Negative
+525,What a great performance,1,Positive
+526,This is the worst experience ever,-1,Negative
+527,The service is good and nice,2,Positive
+528,What a great performance,1,Positive
+529,What a great performance,1,Positive
+530,I love this product it is excellent,2,Positive
+531,The service is good and nice,2,Positive
+532,What a great performance,1,Positive
+533,It is an average day,0,Neutral
+534,This is the worst experience ever,-1,Negative
+535,I love this product it is excellent,2,Positive
+536,What a great performance,1,Positive
+537,I love this product it is excellent,2,Positive
+538,It is an average day,0,Neutral
+539,The service is good and nice,2,Positive
+540,What a great performance,1,Positive
+541,What a great performance,1,Positive
+542,The service is good and nice,2,Positive
+543,I hate this terrible thing,-2,Negative
+544,What a great performance,1,Positive
+545,What a great performance,1,Positive
+546,The service is good and nice,2,Positive
+547,It is an average day,0,Neutral
+548,I hate this terrible thing,-2,Negative
+549,I love this product it is excellent,2,Positive
+550,The service is good and nice,2,Positive
+551,This is the worst experience ever,-1,Negative
+552,I hate this terrible thing,-2,Negative
+553,This is the worst experience ever,-1,Negative
+554,This is the worst experience ever,-1,Negative
+555,This is bad and poor quality,-2,Negative
+556,This is bad and poor quality,-2,Negative
+557,It is an average day,0,Neutral
+558,It is an average day,0,Neutral
+559,I love this product it is excellent,2,Positive
+560,This is the worst experience ever,-1,Negative
+561,The service is good and nice,2,Positive
+562,This is bad and poor quality,-2,Negative
+563,This is the worst experience ever,-1,Negative
+564,I hate this terrible thing,-2,Negative
+565,It is an average day,0,Neutral
+566,What a great performance,1,Positive
+567,I love this product it is excellent,2,Positive
+568,I love this product it is excellent,2,Positive
+569,It is an average day,0,Neutral
+570,The service is good and nice,2,Positive
+571,This is bad and poor quality,-2,Negative
+572,The service is good and nice,2,Positive
+573,I hate this terrible thing,-2,Negative
+574,This is bad and poor quality,-2,Negative
+575,I hate this terrible thing,-2,Negative
+576,What a great performance,1,Positive
+577,This is the worst experience ever,-1,Negative
+578,This is the worst experience ever,-1,Negative
+579,This is the worst experience ever,-1,Negative
+580,It is an average day,0,Neutral
+581,This is the worst experience ever,-1,Negative
+582,This is bad and poor quality,-2,Negative
+583,The service is good and nice,2,Positive
+584,I hate this terrible thing,-2,Negative
+585,What a great performance,1,Positive
+586,It is an average day,0,Neutral
+587,It is an average day,0,Neutral
+588,It is an average day,0,Neutral
+589,This is the worst experience ever,-1,Negative
+590,This is the worst experience ever,-1,Negative
+591,I hate this terrible thing,-2,Negative
+592,I hate this terrible thing,-2,Negative
+593,I love this product it is excellent,2,Positive
+594,The service is good and nice,2,Positive
+595,I hate this terrible thing,-2,Negative
+596,This is the worst experience ever,-1,Negative
+597,This is bad and poor quality,-2,Negative
+598,This is bad and poor quality,-2,Negative
+599,This is bad and poor quality,-2,Negative
+600,What a great performance,1,Positive
+601,This is bad and poor quality,-2,Negative
+602,This is the worst experience ever,-1,Negative
+603,This is bad and poor quality,-2,Negative
+604,The service is good and nice,2,Positive
+605,It is an average day,0,Neutral
+606,I love this product it is excellent,2,Positive
+607,What a great performance,1,Positive
+608,It is an average day,0,Neutral
+609,I hate this terrible thing,-2,Negative
+610,It is an average day,0,Neutral
+611,This is the worst experience ever,-1,Negative
+612,I hate this terrible thing,-2,Negative
+613,I hate this terrible thing,-2,Negative
+614,I love this product it is excellent,2,Positive
+615,This is bad and poor quality,-2,Negative
+616,This is the worst experience ever,-1,Negative
+617,The service is good and nice,2,Positive
+618,This is the worst experience ever,-1,Negative
+619,The service is good and nice,2,Positive
+620,The service is good and nice,2,Positive
+621,This is bad and poor quality,-2,Negative
+622,What a great performance,1,Positive
+623,I hate this terrible thing,-2,Negative
+624,I love this product it is excellent,2,Positive
+625,It is an average day,0,Neutral
+626,It is an average day,0,Neutral
+627,This is the worst experience ever,-1,Negative
+628,I hate this terrible thing,-2,Negative
+629,The service is good and nice,2,Positive
+630,This is the worst experience ever,-1,Negative
+631,This is bad and poor quality,-2,Negative
+632,This is bad and poor quality,-2,Negative
+633,This is the worst experience ever,-1,Negative
+634,This is the worst experience ever,-1,Negative
+635,This is bad and poor quality,-2,Negative
+636,I hate this terrible thing,-2,Negative
+637,I love this product it is excellent,2,Positive
+638,This is bad and poor quality,-2,Negative
+639,It is an average day,0,Neutral
+640,This is bad and poor quality,-2,Negative
+641,I hate this terrible thing,-2,Negative
+642,This is bad and poor quality,-2,Negative
+643,It is an average day,0,Neutral
+644,It is an average day,0,Neutral
+645,The service is good and nice,2,Positive
+646,I hate this terrible thing,-2,Negative
+647,This is the worst experience ever,-1,Negative
+648,The service is good and nice,2,Positive
+649,I hate this terrible thing,-2,Negative
+650,It is an average day,0,Neutral
+651,What a great performance,1,Positive
+652,I love this product it is excellent,2,Positive
+653,I love this product it is excellent,2,Positive
+654,I hate this terrible thing,-2,Negative
+655,I hate this terrible thing,-2,Negative
+656,This is bad and poor quality,-2,Negative
+657,I love this product it is excellent,2,Positive
+658,I hate this terrible thing,-2,Negative
+659,This is the worst experience ever,-1,Negative
+660,This is bad and poor quality,-2,Negative
+661,I hate this terrible thing,-2,Negative
+662,This is bad and poor quality,-2,Negative
+663,I love this product it is excellent,2,Positive
+664,This is bad and poor quality,-2,Negative
+665,It is an average day,0,Neutral
+666,This is the worst experience ever,-1,Negative
+667,This is the worst experience ever,-1,Negative
+668,I love this product it is excellent,2,Positive
+669,This is the worst experience ever,-1,Negative
+670,I love this product it is excellent,2,Positive
+671,The service is good and nice,2,Positive
+672,This is the worst experience ever,-1,Negative
+673,The service is good and nice,2,Positive
+674,What a great performance,1,Positive
+675,This is bad and poor quality,-2,Negative
+676,The service is good and nice,2,Positive
+677,I hate this terrible thing,-2,Negative
+678,This is bad and poor quality,-2,Negative
+679,I hate this terrible thing,-2,Negative
+680,What a great performance,1,Positive
+681,What a great performance,1,Positive
+682,What a great performance,1,Positive
+683,This is the worst experience ever,-1,Negative
+684,What a great performance,1,Positive
+685,I hate this terrible thing,-2,Negative
+686,I love this product it is excellent,2,Positive
+687,This is the worst experience ever,-1,Negative
+688,It is an average day,0,Neutral
+689,This is the worst experience ever,-1,Negative
+690,The service is good and nice,2,Positive
+691,I love this product it is excellent,2,Positive
+692,I love this product it is excellent,2,Positive
+693,The service is good and nice,2,Positive
+694,The service is good and nice,2,Positive
+695,I hate this terrible thing,-2,Negative
+696,This is the worst experience ever,-1,Negative
+697,This is the worst experience ever,-1,Negative
+698,I hate this terrible thing,-2,Negative
+699,This is bad and poor quality,-2,Negative
+700,This is bad and poor quality,-2,Negative
+701,The service is good and nice,2,Positive
+702,This is the worst experience ever,-1,Negative
+703,It is an average day,0,Neutral
+704,It is an average day,0,Neutral
+705,I love this product it is excellent,2,Positive
+706,This is bad and poor quality,-2,Negative
+707,I love this product it is excellent,2,Positive
+708,I love this product it is excellent,2,Positive
+709,I hate this terrible thing,-2,Negative
+710,What a great performance,1,Positive
+711,It is an average day,0,Neutral
+712,What a great performance,1,Positive
+713,What a great performance,1,Positive
+714,It is an average day,0,Neutral
+715,It is an average day,0,Neutral
+716,It is an average day,0,Neutral
+717,I hate this terrible thing,-2,Negative
+718,This is the worst experience ever,-1,Negative
+719,It is an average day,0,Neutral
+720,This is the worst experience ever,-1,Negative
+721,This is the worst experience ever,-1,Negative
+722,I love this product it is excellent,2,Positive
+723,I hate this terrible thing,-2,Negative
+724,This is the worst experience ever,-1,Negative
+725,The service is good and nice,2,Positive
+726,It is an average day,0,Neutral
+727,It is an average day,0,Neutral
+728,This is bad and poor quality,-2,Negative
+729,This is bad and poor quality,-2,Negative
+730,I hate this terrible thing,-2,Negative
+731,This is bad and poor quality,-2,Negative
+732,The service is good and nice,2,Positive
+733,This is bad and poor quality,-2,Negative
+734,I love this product it is excellent,2,Positive
+735,I love this product it is excellent,2,Positive
+736,The service is good and nice,2,Positive
+737,This is bad and poor quality,-2,Negative
+738,What a great performance,1,Positive
+739,What a great performance,1,Positive
+740,This is bad and poor quality,-2,Negative
+741,This is bad and poor quality,-2,Negative
+742,This is the worst experience ever,-1,Negative
+743,This is the worst experience ever,-1,Negative
+744,The service is good and nice,2,Positive
+745,It is an average day,0,Neutral
+746,The service is good and nice,2,Positive
+747,What a great performance,1,Positive
+748,This is bad and poor quality,-2,Negative
+749,I love this product it is excellent,2,Positive
+750,This is bad and poor quality,-2,Negative
+751,I love this product it is excellent,2,Positive
+752,The service is good and nice,2,Positive
+753,I hate this terrible thing,-2,Negative
+754,This is the worst experience ever,-1,Negative
+755,It is an average day,0,Neutral
+756,I love this product it is excellent,2,Positive
+757,The service is good and nice,2,Positive
+758,It is an average day,0,Neutral
+759,I hate this terrible thing,-2,Negative
+760,I hate this terrible thing,-2,Negative
+761,The service is good and nice,2,Positive
+762,I love this product it is excellent,2,Positive
+763,I love this product it is excellent,2,Positive
+764,What a great performance,1,Positive
+765,What a great performance,1,Positive
+766,What a great performance,1,Positive
+767,What a great performance,1,Positive
+768,What a great performance,1,Positive
+769,I love this product it is excellent,2,Positive
+770,This is bad and poor quality,-2,Negative
+771,I love this product it is excellent,2,Positive
+772,I hate this terrible thing,-2,Negative
+773,It is an average day,0,Neutral
+774,I hate this terrible thing,-2,Negative
+775,The service is good and nice,2,Positive
+776,What a great performance,1,Positive
+777,This is the worst experience ever,-1,Negative
+778,I hate this terrible thing,-2,Negative
+779,This is bad and poor quality,-2,Negative
+780,What a great performance,1,Positive
+781,It is an average day,0,Neutral
+782,What a great performance,1,Positive
+783,The service is good and nice,2,Positive
+784,It is an average day,0,Neutral
+785,This is bad and poor quality,-2,Negative
+786,This is the worst experience ever,-1,Negative
+787,I hate this terrible thing,-2,Negative
+788,It is an average day,0,Neutral
+789,This is bad and poor quality,-2,Negative
+790,I love this product it is excellent,2,Positive
+791,It is an average day,0,Neutral
+792,What a great performance,1,Positive
+793,This is bad and poor quality,-2,Negative
+794,This is bad and poor quality,-2,Negative
+795,This is bad and poor quality,-2,Negative
+796,I love this product it is excellent,2,Positive
+797,This is bad and poor quality,-2,Negative
+798,It is an average day,0,Neutral
+799,This is bad and poor quality,-2,Negative
+800,What a great performance,1,Positive
+801,It is an average day,0,Neutral
+802,I hate this terrible thing,-2,Negative
+803,The service is good and nice,2,Positive
+804,It is an average day,0,Neutral
+805,What a great performance,1,Positive
+806,This is the worst experience ever,-1,Negative
+807,This is the worst experience ever,-1,Negative
+808,It is an average day,0,Neutral
+809,I hate this terrible thing,-2,Negative
+810,This is the worst experience ever,-1,Negative
+811,It is an average day,0,Neutral
+812,This is bad and poor quality,-2,Negative
+813,What a great performance,1,Positive
+814,It is an average day,0,Neutral
+815,This is bad and poor quality,-2,Negative
+816,What a great performance,1,Positive
+817,I hate this terrible thing,-2,Negative
+818,The service is good and nice,2,Positive
+819,This is the worst experience ever,-1,Negative
+820,It is an average day,0,Neutral
+821,This is the worst experience ever,-1,Negative
+822,It is an average day,0,Neutral
+823,It is an average day,0,Neutral
+824,This is the worst experience ever,-1,Negative
+825,What a great performance,1,Positive
+826,I love this product it is excellent,2,Positive
+827,I love this product it is excellent,2,Positive
+828,What a great performance,1,Positive
+829,The service is good and nice,2,Positive
+830,The service is good and nice,2,Positive
+831,This is bad and poor quality,-2,Negative
+832,It is an average day,0,Neutral
+833,This is the worst experience ever,-1,Negative
+834,It is an average day,0,Neutral
+835,It is an average day,0,Neutral
+836,What a great performance,1,Positive
+837,This is bad and poor quality,-2,Negative
+838,What a great performance,1,Positive
+839,It is an average day,0,Neutral
+840,The service is good and nice,2,Positive
+841,The service is good and nice,2,Positive
+842,I love this product it is excellent,2,Positive
+843,The service is good and nice,2,Positive
+844,The service is good and nice,2,Positive
+845,It is an average day,0,Neutral
+846,This is bad and poor quality,-2,Negative
+847,The service is good and nice,2,Positive
+848,This is bad and poor quality,-2,Negative
+849,I love this product it is excellent,2,Positive
+850,This is the worst experience ever,-1,Negative
+851,I hate this terrible thing,-2,Negative
+852,What a great performance,1,Positive
+853,This is the worst experience ever,-1,Negative
+854,I hate this terrible thing,-2,Negative
+855,What a great performance,1,Positive
+856,I love this product it is excellent,2,Positive
+857,It is an average day,0,Neutral
+858,This is the worst experience ever,-1,Negative
+859,I hate this terrible thing,-2,Negative
+860,I hate this terrible thing,-2,Negative
+861,The service is good and nice,2,Positive
+862,It is an average day,0,Neutral
+863,This is bad and poor quality,-2,Negative
+864,It is an average day,0,Neutral
+865,What a great performance,1,Positive
+866,This is the worst experience ever,-1,Negative
+867,This is bad and poor quality,-2,Negative
+868,This is bad and poor quality,-2,Negative
+869,What a great performance,1,Positive
+870,I hate this terrible thing,-2,Negative
+871,What a great performance,1,Positive
+872,What a great performance,1,Positive
+873,I love this product it is excellent,2,Positive
+874,It is an average day,0,Neutral
+875,This is the worst experience ever,-1,Negative
+876,What a great performance,1,Positive
+877,I hate this terrible thing,-2,Negative
+878,The service is good and nice,2,Positive
+879,I hate this terrible thing,-2,Negative
+880,I hate this terrible thing,-2,Negative
+881,The service is good and nice,2,Positive
+882,This is the worst experience ever,-1,Negative
+883,This is the worst experience ever,-1,Negative
+884,I hate this terrible thing,-2,Negative
+885,What a great performance,1,Positive
+886,It is an average day,0,Neutral
+887,This is the worst experience ever,-1,Negative
+888,This is the worst experience ever,-1,Negative
+889,I hate this terrible thing,-2,Negative
+890,This is bad and poor quality,-2,Negative
+891,I hate this terrible thing,-2,Negative
+892,I love this product it is excellent,2,Positive
+893,It is an average day,0,Neutral
+894,This is bad and poor quality,-2,Negative
+895,This is bad and poor quality,-2,Negative
+896,What a great performance,1,Positive
+897,This is the worst experience ever,-1,Negative
+898,The service is good and nice,2,Positive
+899,It is an average day,0,Neutral
+900,This is the worst experience ever,-1,Negative
+901,What a great performance,1,Positive
+902,This is the worst experience ever,-1,Negative
+903,It is an average day,0,Neutral
+904,I hate this terrible thing,-2,Negative
+905,This is the worst experience ever,-1,Negative
+906,It is an average day,0,Neutral
+907,This is the worst experience ever,-1,Negative
+908,This is the worst experience ever,-1,Negative
+909,I hate this terrible thing,-2,Negative
+910,I hate this terrible thing,-2,Negative
+911,The service is good and nice,2,Positive
+912,This is bad and poor quality,-2,Negative
+913,It is an average day,0,Neutral
+914,I hate this terrible thing,-2,Negative
+915,I hate this terrible thing,-2,Negative
+916,This is the worst experience ever,-1,Negative
+917,I hate this terrible thing,-2,Negative
+918,It is an average day,0,Neutral
+919,This is the worst experience ever,-1,Negative
+920,The service is good and nice,2,Positive
+921,I love this product it is excellent,2,Positive
+922,This is the worst experience ever,-1,Negative
+923,The service is good and nice,2,Positive
+924,What a great performance,1,Positive
+925,The service is good and nice,2,Positive
+926,This is bad and poor quality,-2,Negative
+927,This is bad and poor quality,-2,Negative
+928,The service is good and nice,2,Positive
+929,The service is good and nice,2,Positive
+930,The service is good and nice,2,Positive
+931,I love this product it is excellent,2,Positive
+932,It is an average day,0,Neutral
+933,I hate this terrible thing,-2,Negative
+934,It is an average day,0,Neutral
+935,The service is good and nice,2,Positive
+936,This is bad and poor quality,-2,Negative
+937,The service is good and nice,2,Positive
+938,This is bad and poor quality,-2,Negative
+939,This is the worst experience ever,-1,Negative
+940,I hate this terrible thing,-2,Negative
+941,This is the worst experience ever,-1,Negative
+942,This is bad and poor quality,-2,Negative
+943,What a great performance,1,Positive
+944,This is the worst experience ever,-1,Negative
+945,The service is good and nice,2,Positive
+946,What a great performance,1,Positive
+947,I hate this terrible thing,-2,Negative
+948,It is an average day,0,Neutral
+949,It is an average day,0,Neutral
+950,The service is good and nice,2,Positive
+951,This is the worst experience ever,-1,Negative
+952,This is the worst experience ever,-1,Negative
+953,This is bad and poor quality,-2,Negative
+954,This is bad and poor quality,-2,Negative
+955,This is the worst experience ever,-1,Negative
+956,This is bad and poor quality,-2,Negative
+957,This is the worst experience ever,-1,Negative
+958,What a great performance,1,Positive
+959,It is an average day,0,Neutral
+960,This is bad and poor quality,-2,Negative
+961,This is the worst experience ever,-1,Negative
+962,The service is good and nice,2,Positive
+963,The service is good and nice,2,Positive
+964,It is an average day,0,Neutral
+965,It is an average day,0,Neutral
+966,The service is good and nice,2,Positive
+967,I hate this terrible thing,-2,Negative
+968,What a great performance,1,Positive
+969,The service is good and nice,2,Positive
+970,I love this product it is excellent,2,Positive
+971,I love this product it is excellent,2,Positive
+972,This is the worst experience ever,-1,Negative
+973,It is an average day,0,Neutral
+974,This is bad and poor quality,-2,Negative
+975,I hate this terrible thing,-2,Negative
+976,This is the worst experience ever,-1,Negative
+977,This is the worst experience ever,-1,Negative
+978,The service is good and nice,2,Positive
+979,What a great performance,1,Positive
+980,The service is good and nice,2,Positive
+981,This is bad and poor quality,-2,Negative
+982,What a great performance,1,Positive
+983,What a great performance,1,Positive
+984,I love this product it is excellent,2,Positive
+985,I love this product it is excellent,2,Positive
+986,The service is good and nice,2,Positive
+987,I love this product it is excellent,2,Positive
+988,I love this product it is excellent,2,Positive
+989,It is an average day,0,Neutral
+990,I love this product it is excellent,2,Positive
+991,This is the worst experience ever,-1,Negative
+992,What a great performance,1,Positive
+993,What a great performance,1,Positive
+994,It is an average day,0,Neutral
+995,This is bad and poor quality,-2,Negative
+996,I hate this terrible thing,-2,Negative
+997,I love this product it is excellent,2,Positive
+998,I hate this terrible thing,-2,Negative
+999,This is the worst experience ever,-1,Negative
+1000,I love this product it is excellent,2,Positive
